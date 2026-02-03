@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# My
+/FOOBAR-PLUGIN/.vs/FOOBAR-PLUGIN/v17
+/FOOBAR-PLUGIN/.vs/FOOBAR-PLUGIN/FileContentIndex
+FOOBAR-PLUGIN/FOOBAR-PLUGIN.vcxproj.user
+FOOBAR-PLUGIN/FOOBAR-PLUGIN.vcxproj.filters
